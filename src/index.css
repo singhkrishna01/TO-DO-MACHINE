@@ -1,0 +1,91 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #F2F4F5;
+  color: #1E1E1F;
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+#root {
+  margin: 0;
+  position: relative;
+  min-height: 100vh;
+}
+
+.app-container {
+  background-image: url("https://images.pexels.com/photos/247676/pexels-photo-247676.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-repeat: none;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 100px;
+}
+
+.todo-container {
+  background-color: rgba(0, 0, 0, 0.7);
+  width: 90%;
+  max-width: 850px;
+  height: 80%;
+  border: 2px solid white;
+  border-radius: 6px;
+  overflow-y: scroll;
+  position: relative;
+}
+
+.big-form-container {
+  display: none;
+}
+
+
+::-webkit-scrollbar {
+  width: 6px; /* Anchura de la barra de desplazamiento */
+}
+
+/* Personaliza el color de la barra de desplazamiento */
+::-webkit-scrollbar-thumb {
+  background: #61DAFA;
+}
+
+/* Personaliza el manejar de la barra de desplazamiento */
+::-webkit-scrollbar-thumb:hover {
+  background: #2c9dbc;
+}
+
+.info-container {
+  color: white;
+  position: fixed;
+  bottom: 30px;
+  left: 22px;
+  font-size: 14px;
+}
+
+.info-container a {
+  color: #61DAFA;
+  text-decoration: none;
+}
+
+.info-container a:hover {
+  text-decoration: underline;
+  text-underline-offset: 6px;
+}
+
+@media (min-width: 1400px) {
+  .big-form-container {
+    display: block;
+  }
+
+  .info-container {
+    left: 60px;
+  }
+}
+
+@media (max-height: 700px) {
+  .info-container {
+    bottom: 4px;
+  }
+}
