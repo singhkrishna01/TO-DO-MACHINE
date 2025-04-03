@@ -66,9 +66,8 @@ To-Do-App/
    ```sh
    http://localhost:3000
    ```
+   
 ## 📞 Contact
 - **Email**: krishna00cs@gmail.com
 - **Portfolio**: [krishna-singh.netlify.app](https://krishna-singh.netlify.app/)
 - **LinkedIn**: [krishnasingh20](https://www.linkedin.com/in/krishnasingh20/)
-🔗 **GitHub:** [your-username](https://github.com/your-username)  
-🔗 **LinkedIn:** [Your Profile](https://www.linkedin.com/in/your-profile)  
