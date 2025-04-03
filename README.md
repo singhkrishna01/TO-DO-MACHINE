@@ -3,10 +3,10 @@
 A simple yet efficient **To-Do List Application** built with React.js, designed to help users manage their daily tasks effectively.
 
 ## 🌍 Live Demo
-[Live App](#) *(Update with your deployed link)*
+[Live App](#)
 
 ## 📌 GitHub Repository
-[To-Do App Source Code](#) *([Update with your repo link](https://github.com/singhkrishna01/TO-DO-MACHINE))*
+[To-Do App Source Code](https://github.com/singhkrishna01/TO-DO-MACHINE)
 
 ---
 
