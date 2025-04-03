@@ -66,13 +66,9 @@ To-Do-App/
    ```sh
    http://localhost:3000
    ```
-
-## 🎯 Future Enhancements
-- 🔔 **Notifications** – Remind users about pending tasks.
-- 📅 **Due Dates** – Set deadlines for tasks.
-- 🏆 **Task Categories** – Organize tasks into categories.
-
 ## 📞 Contact
-📩 **Email:** your.email@example.com  
+- **Email**: krishna00cs@gmail.com
+- **Portfolio**: [krishna-singh.netlify.app](https://krishna-singh.netlify.app/)
+- **LinkedIn**: [krishnasingh20](https://www.linkedin.com/in/krishnasingh20/)
 🔗 **GitHub:** [your-username](https://github.com/your-username)  
 🔗 **LinkedIn:** [Your Profile](https://www.linkedin.com/in/your-profile)  
